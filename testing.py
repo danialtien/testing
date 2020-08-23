@@ -9,3 +9,6 @@ if a % 2==0:
     print('Đây là số chẵn')
 else:
     print('Đây là số lẻ')
+
+for i in range(1,10):
+    print(i)
